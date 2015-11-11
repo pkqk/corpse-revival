@@ -1,2 +1,3 @@
-# corpse-revival
-All the Corpse Revivers
+# Corpse Revival
+
+All of the Corpse Revivers – All of the time
